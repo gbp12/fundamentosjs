@@ -21,3 +21,4 @@ function saludo(persona) {
 
 saludo(gonzalo)
 saludo(helena)
+console.log("cambios desde laptop");
